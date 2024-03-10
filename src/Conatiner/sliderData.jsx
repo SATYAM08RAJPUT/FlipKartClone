@@ -1,0 +1,30 @@
+export const sliderData = [
+    {
+        id:"1",
+        img:"https://rukminim1.flixcart.com/fk-p-flap/1600/270/image/6d92c18feb12b119.jpg?q=20"
+    },
+    {
+        id:"2",
+        img:"https://rukminim2.flixcart.com/fk-p-flap/1000/170/image/5d4df1641e72d766.jpg?q=20"
+    },
+    {
+        id:"3",
+        img:"https://rukminim2.flixcart.com/fk-p-flap/1000/170/image/c096498cafe9027c.png?q=20"
+    },
+    {
+        id:"4",
+        img:"https://rukminim2.flixcart.com/fk-p-flap/1000/170/image/88a387d43cef39e5.png?q=20"
+    },
+    {
+        id:"5",
+        img:"https://rukminim1.flixcart.com/fk-p-flap/1600/270/image/6d92c18feb12b119.jpg?q=20"
+    },
+    {
+        id:"6",
+        img:"https://rukminim1.flixcart.com/fk-p-flap/1600/270/image/6d92c18feb12b119.jpg?q=20"
+    },
+    {
+        id:"7",
+        img:"https://rukminim2.flixcart.com/fk-p-flap/1000/170/image/66e1949c1f88b21c.jpg?q=20"
+    }
+]
